@@ -70,6 +70,7 @@ namespace lab4
             if (data.SelectedItems.Count > 2)
             {
                 MessageBox.Show("Вы выбрали больше 2х посылок");
+
             }
             else
             {
